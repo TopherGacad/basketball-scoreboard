@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+    max-height: 100vh;
+    background: #1B244A;
+}
+h1{
+    color: orangered;
+}
+.container {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #1B244A;
+    width: 100%;
+    height: 100vh;
+}
+h3{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+    color:#EEEEEE;
+    line-height: 36px;
+}
+h2{
+    font-size: 90px;
+    font-family: 'Cursed Timer ULiL';
+    color: #F94F6D;
+    background: #080001;
+    width: 155px;
+    height: 120px;
+    margin:20px;
+    padding-top:20px;
+    border-radius: 5px;
+}
+button{
+    background:transparent;
+    height: 45px;    
+    width: 45px;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    font-family: 'Cursed Timer ULiL';
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 700;
+}
